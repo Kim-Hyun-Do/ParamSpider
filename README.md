@@ -2,7 +2,7 @@
 
 It is paramspider module changed by r0b0ts.
 
-# Change Point
+# Upgrade Point
 
 The origin code of paramspider can only get host(origin code: https://github.com/0xKayala/ParamSpider/blob/main/paramspider.py). Also, with this host, paramspider just crawled endpoints only on web archive 'WaybackMachine'.
 
